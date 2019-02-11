@@ -7,7 +7,7 @@
     "lc-spider": "./bin/leetcode_spider"
   },
   "scripts": {
-    "dev": "DEBUG=lc-spider lc-spider",
+    "debug": "DEBUG=lc-spider lc-spider",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

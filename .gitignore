@@ -5,3 +5,6 @@ log/*
 .DS_Store
 result.json
 npm-debug.log
+solutions
+.vscode
+config.json
